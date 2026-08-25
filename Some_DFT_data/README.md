@@ -1,0 +1,1 @@
+The CIF structures in this folder are the DFT-optimized configurations of several different bulk lithium distribution patterns of lithium cobalt oxide in the paper.
