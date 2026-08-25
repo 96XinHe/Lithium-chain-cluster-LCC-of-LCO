@@ -4,6 +4,6 @@ NEP potential files for bulk-phase simulation of high-voltage lithium cobalt oxi
 
 
 
-#**How to Cite**
+# **How to Cite**
 
 <font size="10">Please cite the following publications if you use any files or data from this repository: </font>
