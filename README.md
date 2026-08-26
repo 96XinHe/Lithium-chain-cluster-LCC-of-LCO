@@ -26,6 +26,7 @@ Or reference this repository directly in the interim:
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/96XinHe/Lithium-chain-cluster-LCC-of-LCO}}
 }
+```
 
 
 ## License
