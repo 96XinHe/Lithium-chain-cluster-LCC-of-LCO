@@ -16,4 +16,3 @@ NEP potential files for bulk-phase simulation of high-voltage lithium cobalt oxi
 
 
 
-## License Creative Commons Attribution 4.0 International (CC-BY-4.0)
