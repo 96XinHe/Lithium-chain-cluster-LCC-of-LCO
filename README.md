@@ -12,7 +12,20 @@ NEP potential files for bulk-phase simulation of high-voltage lithium cobalt oxi
 
 ## **How to Cite**
 
-Please cite the following publications if you use any files or data from this repository: 
+If you use any files, potentials, or data from this repository, please cite this paper:
+
+> **X. He et al.**, *"Title of Your Paper"*, *Under review* (2026). *(The full citation and DOI will be updated upon publication.)*
+
+Or reference this repository directly in the interim:
+
+```bibtex
+@misc{he2026lcc_repo,
+  author       = {X. He and others},
+  title        = {Lithium-chain-cluster (LCC) NEP Potentials and Datasets for LCO},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{[https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)}}
+}
 
 
 ## License
